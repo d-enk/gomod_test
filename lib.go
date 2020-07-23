@@ -3,5 +3,5 @@ package gomod_test
 import "fmt"
 
 func Hi() {
-	fmt.Println("github v201")
+	fmt.Println("github v300")
 }
